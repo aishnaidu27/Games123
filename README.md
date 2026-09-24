@@ -1,1 +1,1 @@
-# Games123
+🎮 A collection of fun and interactive games built using Python. This repository contains beginner-friendly game projects designed for learning programming concepts, improving problem-solving skills, and exploring game development.
